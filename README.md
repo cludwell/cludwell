@@ -1,4 +1,12 @@
-### Hi there 👋
+☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | ⏹Sequelize | 🐘Postgresql | 💨Tailwind CSS
+
+Hi! I'm Chris! I'm a full stack Software Engineer looking for a Junior Developer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
+
+Before becoming a software engineer I was a Senior Installer doing residential solar installations. My role meant quality and safe installations, for clients and my team, all within the span of one day. It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from seeing a project in all aspects from start to finish.
+
+When I am not working I am hopefully backpacking in a national forest or exploring a part of Mexico I've never been to. My profile picture is from a trip I took to the King Range Conservation Area in Northern California, which is one of 20 black sand beaches in the world.
+
+I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
