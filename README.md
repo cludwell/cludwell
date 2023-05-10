@@ -1,4 +1,4 @@
-☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | ⏹Sequelize | 🐘Postgresql | 💨Tailwind CSS
+☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | Sequelize | 🐘Postgresql | 💨Tailwind CSS
 
 👋 Hi! I'm Chris! I'm a full stack Software Engineer looking for a Junior Developer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
