@@ -10,7 +10,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
-<p align="center" style="display: flex; flex-wrap: wrap;">
+<p align="center" style="align-content: center;">
   <p href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,docker,express,flask,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,tailwind,visualstudio&perline=8" />
   </p>
