@@ -1,4 +1,4 @@
-☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | 💠Sequelize | 🐘Postgresql | 💨Tailwind CSS
+<!-- ☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | 💠Sequelize | 🐘Postgresql | 💨Tailwind CSS -->
 
 👋 Hi! I'm Chris! I'm a full stack Software Engineer looking for a Junior Developer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
@@ -8,8 +8,13 @@ When I am not working I am hopefully backpacking in a national forest 🏕 or ex
 
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
-🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔
+<!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,docker,express,flask,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,tailwind,visualstudio" />
+  </a>
+</p>
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
