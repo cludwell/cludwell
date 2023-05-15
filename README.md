@@ -9,6 +9,7 @@ When I am not working I am hopefully backpacking in a national forest 🏕 or ex
 
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
+🌱 I’m currently learning Kotlin and Java.
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
 <p>
