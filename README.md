@@ -1,7 +1,7 @@
 <!-- ☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | 💠Sequelize | 🐘Postgresql | 💨Tailwind CSS -->
 
 ![website-construction](/construct.png)
-👋 Hi! I'm Chris! I'm a full stack Software Engineer looking for a Junior Developer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
+👋 Hi! I'm Chris! I'm a full stack Software Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
 Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 My role meant quality and safe installations, for clients and my team, all within the span of one day. It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from seeing a project in all aspects from start to finish.
 
@@ -9,6 +9,7 @@ When I am not working I am hopefully backpacking in a national forest 🏕 or ex
 
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
+🌱 I’m currently learning Kotlin and Java.
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
 <p>
