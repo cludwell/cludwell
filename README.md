@@ -9,12 +9,12 @@ When I am not working I am hopefully backpacking in a national forest 🏕 or ex
 
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
-🌱 I’m currently learning Kotlin and Java.
+🌱 I’m currently learning Next.js and TypeScript.
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
 <p>
   <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
-    <img src="https://skillicons.dev/icons?i=js,html,css,docker,express,flask,git,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,tailwind,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,docker,express,flask,git,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,vscode&perline=8" />
   </p>
 </p>
 <!--
