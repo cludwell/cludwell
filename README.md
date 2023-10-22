@@ -5,11 +5,9 @@
 
 Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 My role meant quality and safe installations, for clients and my team, all within the span of one day. It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from seeing a project in all aspects from start to finish.
 
-When I am not working I am hopefully backpacking in a national forest 🏕 or exploring a part of Mexico I've never been to 🌵. My profile picture is from a trip I took to the King Range Conservation Area in Northern California, which is one of 20 black sand beaches in the world.⛱
-
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
-🌱 I’m currently learning Next.js and TypeScript.
+🌱 I’m currently learning Kotlin and Java while refactoring my recent Next.js and TypeScript project.
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
 <p>
