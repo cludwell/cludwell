@@ -12,7 +12,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 
 <p>
   <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
-    <img src="https://skillicons.dev/icons?i=aws,css,docker,express,html,flask,git,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,cs,css,docker,eclipse,express,html,flask,git,java,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,visualstudio,vscode&perline=9" />
   </p>
 </p>
 <!--
