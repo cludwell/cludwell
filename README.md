@@ -48,7 +48,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
   >
     <img
-      src="./portfolio.png"
+      src="./spacey.png"
       style="object-fit: cover; width: full; height: full"
     />
   </a>
