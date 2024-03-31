@@ -26,7 +26,12 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   >
     <img
       src="./portfolio.png"
-      style="object-fit: cover; width: 150px; height: 150px"
+      style="
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 0.5rem;
+      "
     />
   </a>
   <a
@@ -35,7 +40,12 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   >
     <img
       src="./sidequest.png"
-      style="object-fit: cover; width: 150px; height: 150px"
+      style="
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 0.5rem;
+      "
     />
   </a>
   <a
@@ -44,7 +54,12 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   >
     <img
       src="./juanita.png"
-      style="object-fit: cover; width: 150px; height: 150px"
+      style="
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 0.5rem;
+      "
     />
   </a>
   <a
@@ -53,10 +68,16 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   >
     <img
       src="./spacey.png"
-      style="object-fit: cover; width: 150px; height: 150px"
+      style="
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 0.5rem;
+      "
     />
   </a>
 </div>
+
 
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
