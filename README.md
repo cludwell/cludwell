@@ -19,7 +19,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 
 #Projects
 <div
-  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem"
+  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; flex-direction: row;"
 >
   <a
     href="https://cludwell.github.io/"
