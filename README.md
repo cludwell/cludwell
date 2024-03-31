@@ -17,44 +17,47 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </p>
 </p>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: .5rem;">
+<div
+  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem"
+>
   <a
     href="https://cludwell.github.io/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
+    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
   >
     <img
       src="./portfolio.png"
-      style="object-fit: cover; width: 100%; height: 100%"
+      style="object-fit: cover; width: 150px; height: 150px"
     />
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
+    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
   >
     <img
       src="./sidequest.png"
-      style="object-fit: cover; width: 100%; height: 100%"
+      style="object-fit: cover; width: 150px; height: 150px"
     />
   </a>
   <a
     href="https://fancamp.onrender.com/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
+    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
   >
     <img
       src="./juanita.png"
-      style="object-fit: cover; width: 100%; height: 100%"
+      style="object-fit: cover; width: 150px; height: 150px"
     />
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
+    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
   >
     <img
       src="./spacey.png"
-      style="object-fit: cover; width: 100%; height: 100%"
+      style="object-fit: cover; width: 150px; height: 150px"
     />
   </a>
 </div>
+
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
