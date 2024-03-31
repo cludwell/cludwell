@@ -15,7 +15,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,cs,css,docker,eclipse,express,html,flask,git,java,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,visualstudio,vscode&perline=9" />
   </p>
 </p>
-<div style="display: grid; grid-template-columns: 1fr auto; gap: 1rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
   <a
     href="https://cludwell.github.io/"
     style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
