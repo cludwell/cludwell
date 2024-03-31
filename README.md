@@ -18,8 +18,15 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 </p>
 
 #Projects
+<div>
 <div
-  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; flex-direction: row;"
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-direction: row;
+  "
 >
   <a
     href="https://cludwell.github.io/"
@@ -34,7 +41,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <p style="text-decoration: none; text-align: center">Portfolio</p>
   </a>
   <a
     href="https://spokeswheel.vercel.app/"
@@ -49,7 +55,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <p style="text-decoration: none; text-align: center">SpokesWheel</p>
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
@@ -58,9 +63,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       border-radius: 0.5rem;
       border: 2px solid gray;
       text-decoration: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
     "
   >
     <img
@@ -72,7 +74,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <p style="text-decoration: none; text-align: center">SideQuest</p>
   </a>
   <a
     href="https://fancamp.onrender.com/"
@@ -81,9 +82,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       border-radius: 0.5rem;
       border: 2px solid gray;
       text-decoration: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
     "
   >
     <img
@@ -95,7 +93,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <p style="text-decoration: none; text-align: center">Fancamp</p>
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
@@ -104,9 +101,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       border-radius: 0.5rem;
       border: 2px solid gray;
       text-decoration: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
     "
   >
     <img
@@ -118,7 +112,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <p style="text-decoration: none; text-align: center">Spacey</p>
   </a>
   <a
     href="https://chris-auth-me-373j.onrender.com/"
@@ -127,9 +120,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       border-radius: 0.5rem;
       border: 2px solid gray;
       text-decoration: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
     "
   >
     <img
@@ -141,8 +131,9 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <p style="text-decoration: none; text-align: center">ScareBnb</p>
   </a>
+</div>
+
 </div>
 
 <!--
