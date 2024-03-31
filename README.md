@@ -20,6 +20,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 <p style="font-size: 1.5rem;"> Projects</p>
 <p style="font-size: large;"> Projects</p>
 
+<p style="font-size: large;"> Projects</p>
+
 <div
   style="
     display: flex;
@@ -37,8 +39,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./portfolio.png"
       style="
         object-fit: cover;
-        aspect-ratio: 1/1;
-        max-width: 50%;
+        width: 200px;
+        height: 200px;
         border-radius: 0.5rem;
       "
     />
@@ -51,8 +53,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./spokeswheel.png"
       style="
         object-fit: cover;
-        aspect-ratio: 1/1;
-        max-width: 50%;
+        width: 200px;
+        height: 200px;
         border-radius: 0.5rem;
       "
     />
@@ -70,8 +72,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./sidequest.png"
       style="
         object-fit: cover;
-        aspect-ratio: 1/1;
-        max-width: 50%;
+        width: 200px;
+        height: 200px;
         border-radius: 0.5rem;
       "
     />
@@ -89,8 +91,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./juanita.png"
       style="
         object-fit: cover;
-        aspect-ratio: 1/1;
-        max-width: 50%;
+        width: 200px;
+        height: 200px;
         border-radius: 0.5rem;
       "
     />
@@ -108,8 +110,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./spacey.png"
       style="
         object-fit: cover;
-        aspect-ratio: 1/1;
-        max-width: 50%;
+        width: 200px;
+        height: 200px;
         border-radius: 0.5rem;
       "
     />
@@ -127,8 +129,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./scarebnb.png"
       style="
         object-fit: cover;
-        aspect-ratio: 1/1;
-        max-width: 50%;
+        width: 200px;
+        height: 200px;
         border-radius: 0.5rem;
       "
     />
