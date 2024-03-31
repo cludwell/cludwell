@@ -16,10 +16,11 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,cs,css,docker,eclipse,express,html,flask,git,java,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,visualstudio,vscode&perline=9" />
   </p>
 </p>
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: .5rem;">
   <a
     href="https://cludwell.github.io/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
   >
     <img
       src="./portfolio.png"
@@ -28,7 +29,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
   >
     <img
       src="./sidequest.png"
@@ -37,7 +38,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://fancamp.onrender.com/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
   >
     <img
       src="./juanita.png"
@@ -46,7 +47,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
-    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray;"
   >
     <img
       src="./spacey.png"
