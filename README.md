@@ -31,6 +31,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
+        margin: .2rem;
       "
     />
   </a>
@@ -45,6 +46,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
+        margin: .2rem;
       "
     />
   </a>
@@ -59,6 +61,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
+        margin: .2rem;
       "
     />
   </a>
@@ -73,6 +76,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
+        margin: .2rem;
       "
     />
   </a>
@@ -92,4 +96,4 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
