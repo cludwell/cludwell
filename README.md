@@ -1,13 +1,14 @@
 <!-- ☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | 💠Sequelize | 🐘Postgresql | 💨Tailwind CSS -->
 
 ![website-construction](/construct.png)
-👋 Hi! I'm Chris! I'm a full stack Software Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
+👋 Hi! I'm Chris! I'm a 100% stack Software Engineer looking for a Junior 100% Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
 Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 My role meant quality and safe installations, for clients and my team, all within the span of one day. It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from seeing a project in all aspects from start to finish.
 
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
 🌱 I’m currently learning Java and C#.
+
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 
 <p>
@@ -15,44 +16,44 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,cs,css,docker,eclipse,express,html,flask,git,java,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,visualstudio,vscode&perline=9" />
   </p>
 </p>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: .5rem;">
   <a
     href="https://cludwell.github.io/"
-    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
   >
     <img
       src="./portfolio.png"
-      style="object-fit: cover; width: full; height: full"
+      style="object-fit: cover; width: 100%; height: 100%"
     />
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
-    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
   >
     <img
       src="./sidequest.png"
-      style="object-fit: cover; width: full; height: full"
+      style="object-fit: cover; width: 100%; height: 100%"
     />
   </a>
   <a
     href="https://fancamp.onrender.com/"
-    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
   >
     <img
       src="./juanita.png"
-      style="object-fit: cover; width: full; height: full"
+      style="object-fit: cover; width: 100%; height: 100%"
     />
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
-    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+    style="overflow: hidden; border-radius: .5rem; border: 2px solid gray; height: 100px"
   >
     <img
       src="./spacey.png"
-      style="object-fit: cover; width: full; height: full"
+      style="object-fit: cover; width: 100%; height: 100%"
     />
   </a>
-  </div>
+</div>
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
