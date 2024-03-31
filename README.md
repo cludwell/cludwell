@@ -52,6 +52,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       style="object-fit: cover; width: full; height: full"
     />
   </a>
+  </div>
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
