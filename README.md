@@ -17,8 +17,9 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </p>
 </p>
 
+#Projects
 <div
-  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem"
+  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;"
 >
   <a
     href="https://cludwell.github.io/"
@@ -31,9 +32,24 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
-        margin: .2rem;
       "
     />
+    <span style="text-decoration: none; text-align: center;">Portfolio</span>
+  </a>
+  <a
+    href="https://spokeswheel.vercel.app/"
+    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
+  >
+    <img
+      src="./spokeswheel.png"
+      style="
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 0.5rem;
+      "
+    />
+    <span style="text-decoration: none; text-align: center;">SpokesWheel</span>
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
@@ -46,9 +62,10 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
-        margin: .2rem;
       "
     />
+    <span style="text-decoration: none; text-align: center;">SideQuest</span>
+
   </a>
   <a
     href="https://fancamp.onrender.com/"
@@ -61,9 +78,10 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
-        margin: .2rem;
       "
     />
+    <span style="text-decoration: none; text-align: center;">Fancamp</span>
+
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
@@ -76,12 +94,28 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         width: 200px;
         height: 200px;
         border-radius: 0.5rem;
-        margin: .2rem;
       "
     />
+    <span style="text-decoration: none; text-align: center;">Spacey</span>
+
+  </a>
+  <a
+    href="https://chris-auth-me-373j.onrender.com/"
+    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
+  >
+    <img
+      src="./scarebnb.png"
+      style="
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 0.5rem;
+      "
+    />
+    <span style="text-decoration: none; text-align: center;">ScareBnb</span>
+
   </a>
 </div>
-
 
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
