@@ -19,7 +19,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 
 #Projects
 <div
-  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;"
+  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem"
 >
   <a
     href="https://cludwell.github.io/"
@@ -34,7 +34,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <span style="text-decoration: none; text-align: center;">Portfolio</span>
+    <p style="text-decoration: none; text-align: center">Portfolio</p>
   </a>
   <a
     href="https://spokeswheel.vercel.app/"
@@ -49,11 +49,19 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <span style="text-decoration: none; text-align: center;">SpokesWheel</span>
+    <p style="text-decoration: none; text-align: center">SpokesWheel</p>
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
-    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
+    style="
+      overflow: hidden;
+      border-radius: 0.5rem;
+      border: 2px solid gray;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
   >
     <img
       src="./sidequest.png"
@@ -64,12 +72,19 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <span style="text-decoration: none; text-align: center;">SideQuest</span>
-
+    <p style="text-decoration: none; text-align: center">SideQuest</p>
   </a>
   <a
     href="https://fancamp.onrender.com/"
-    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
+    style="
+      overflow: hidden;
+      border-radius: 0.5rem;
+      border: 2px solid gray;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
   >
     <img
       src="./juanita.png"
@@ -80,12 +95,19 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <span style="text-decoration: none; text-align: center;">Fancamp</span>
-
+    <p style="text-decoration: none; text-align: center">Fancamp</p>
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
-    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
+    style="
+      overflow: hidden;
+      border-radius: 0.5rem;
+      border: 2px solid gray;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
   >
     <img
       src="./spacey.png"
@@ -96,12 +118,19 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <span style="text-decoration: none; text-align: center;">Spacey</span>
-
+    <p style="text-decoration: none; text-align: center">Spacey</p>
   </a>
   <a
     href="https://chris-auth-me-373j.onrender.com/"
-    style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
+    style="
+      overflow: hidden;
+      border-radius: 0.5rem;
+      border: 2px solid gray;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
   >
     <img
       src="./scarebnb.png"
@@ -112,8 +141,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
         border-radius: 0.5rem;
       "
     />
-    <span style="text-decoration: none; text-align: center;">ScareBnb</span>
-
+    <p style="text-decoration: none; text-align: center">ScareBnb</p>
   </a>
 </div>
 
