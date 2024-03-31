@@ -17,7 +17,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </p>
 </p>
 
-#Projects
+<p style="font-size: large;"> Projects</p>
 <div>
 <div
   style="
