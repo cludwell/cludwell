@@ -18,7 +18,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 </p>
 
 <p style="font-size: 1.5rem;"> Projects</p>
-<div>
+<p style="font-size: large;"> Projects</p>
+
 <div
   style="
     display: flex;
@@ -36,8 +37,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./portfolio.png"
       style="
         object-fit: cover;
-        width: 200px;
-        height: 200px;
+        aspect-ratio: 1/1;
+        max-width: 50%;
         border-radius: 0.5rem;
       "
     />
@@ -50,8 +51,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./spokeswheel.png"
       style="
         object-fit: cover;
-        width: 200px;
-        height: 200px;
+        aspect-ratio: 1/1;
+        max-width: 50%;
         border-radius: 0.5rem;
       "
     />
@@ -69,8 +70,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./sidequest.png"
       style="
         object-fit: cover;
-        width: 200px;
-        height: 200px;
+        aspect-ratio: 1/1;
+        max-width: 50%;
         border-radius: 0.5rem;
       "
     />
@@ -88,8 +89,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./juanita.png"
       style="
         object-fit: cover;
-        width: 200px;
-        height: 200px;
+        aspect-ratio: 1/1;
+        max-width: 50%;
         border-radius: 0.5rem;
       "
     />
@@ -107,8 +108,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./spacey.png"
       style="
         object-fit: cover;
-        width: 200px;
-        height: 200px;
+        aspect-ratio: 1/1;
+        max-width: 50%;
         border-radius: 0.5rem;
       "
     />
@@ -126,15 +127,14 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
       src="./scarebnb.png"
       style="
         object-fit: cover;
-        width: 200px;
-        height: 200px;
+        aspect-ratio: 1/1;
+        max-width: 50%;
         border-radius: 0.5rem;
       "
     />
   </a>
 </div>
 
-</div>
 
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
