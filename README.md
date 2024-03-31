@@ -15,10 +15,47 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,cs,css,docker,eclipse,express,html,flask,git,java,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,visualstudio,vscode&perline=9" />
   </p>
 </p>
+<div style="display: grid; grid-template-columns: 1fr auto; gap: 1rem;">
+  <a
+    href="https://cludwell.github.io/"
+    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+  >
+    <img
+      src="./portfolio.png"
+      style="object-fit: cover; width: full; height: full"
+    />
+  </a>
+  <a
+    href="https://sidequest-grd2.onrender.com/"
+    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+  >
+    <img
+      src="./sidequest.png"
+      style="object-fit: cover; width: full; height: full"
+    />
+  </a>
+  <a
+    href="https://fancamp.onrender.com/"
+    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+  >
+    <img
+      src="./juanita.png"
+      style="object-fit: cover; width: full; height: full"
+    />
+  </a>
+  <a
+    href="https://spacey-yscj.onrender.com/"
+    style="overflow: hidden; border-radius: 1rem; border: 2px solid gray"
+  >
+    <img
+      src="./portfolio.png"
+      style="object-fit: cover; width: full; height: full"
+    />
+  </a>
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,4 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
