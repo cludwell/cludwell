@@ -27,6 +27,8 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     gap: 0.5rem;
     flex-direction: row;
   "
+  align="center"
+  gap=".5rem"
 >
   <a
     href="https://cludwell.github.io/"
@@ -133,7 +135,6 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
     />
   </a>
 </div>
-
 
 <!--
 **cludwell/cludwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
