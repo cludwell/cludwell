@@ -32,6 +32,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 >
   <a
     href="https://cludwell.github.io/"
+    target="_blank"
     style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
   >
     <img
@@ -46,6 +47,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://spokeswheel.vercel.app/"
+    target="_blank"
     style="overflow: hidden; border-radius: 0.5rem; border: 2px solid gray"
   >
     <img
@@ -60,6 +62,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://sidequest-grd2.onrender.com/"
+    target="_blank"
     style="
       overflow: hidden;
       border-radius: 0.5rem;
@@ -79,6 +82,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://fancamp.onrender.com/"
+    target="_blank"
     style="
       overflow: hidden;
       border-radius: 0.5rem;
@@ -98,6 +102,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://spacey-yscj.onrender.com/"
+    target="_blank"
     style="
       overflow: hidden;
       border-radius: 0.5rem;
@@ -117,6 +122,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </a>
   <a
     href="https://chris-auth-me-373j.onrender.com/"
+    target="_blank"
     style="
       overflow: hidden;
       border-radius: 0.5rem;
