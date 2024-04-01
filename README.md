@@ -3,7 +3,7 @@
 ![website-construction](/construct.png)
 <h2 style="font-size: 1.5rem; font-weight: bold;"> 👋 Hi! I'm Chris!</h2>
 
-I'm aSoftware Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
+I'm a Software Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
 Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 My role meant quality and safe installations, for clients and my team, all within the span of one day. It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from ownership of a project in all aspects from start to finish.
 
@@ -12,6 +12,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 🌱 I’m currently learning Java and C#.
 
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
+<h2 style="font-size: 1.5rem; font-weight: bold;">Technologies</h2>
 
 <p>
   <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
