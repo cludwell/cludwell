@@ -10,18 +10,18 @@ Before becoming a software engineer I was a Senior Installer doing residential s
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
 🌱 I’m currently learning Java and C#.
-
+&nbsp;
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
 <h2 style="font-size: 1.5rem; font-weight: bold;">Technologies</h2>
-
+&nbsp;
 <p>
   <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,cs,css,docker,eclipse,express,html,flask,git,java,js,nodejs,nextjs,postgres,postman,prisma,py,react,redux,sqlite,sequelize,tailwind,ts,visualstudio,vscode&perline=9" />
   </p>
 </p>
-
+&nbsp;
 <h2 style="font-size: 1.5rem; font-weight: bold;"> Projects</h2>
-
+&nbsp;
 <div
   style="
     display: flex;
