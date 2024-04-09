@@ -5,7 +5,7 @@
 
 I'm a Software Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
-Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 My role meant quality and safe installations, for clients and my team, all within the span of one day. It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from ownership of a project in all aspects from start to finish.
+Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from ownership of a project in all aspects from start to finish.
 
 I'm currently located in Portland, OR. But looking to relocate, given the right opportunity! Please feel free to contact me to discuss work opportunities or possible collaborations.
 
