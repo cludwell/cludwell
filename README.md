@@ -3,7 +3,7 @@
 ![website-construction](/construct.png)
 <h2 style="font-size: 1.5rem; font-weight: bold;"> 👋 Hi! I'm Chris!</h2>
 
-I'm a Software Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
+I'm a Software Engineer looking for a Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
 
 Before becoming a software engineer I was a Senior Installer doing residential solar installations. 🌞 It was from this work that I learned I enjoyed creative problem solving and wanted a career in which I was always learning and constantly being challenged, as well as the sense of completion that comes from ownership of a project in all aspects from start to finish.
 
