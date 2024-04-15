@@ -1,6 +1,6 @@
 <!-- ☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | 💠Sequelize | 🐘Postgresql | 💨Tailwind CSS -->
 
-![website-construction](/construct.png)
+![website-construction](/programming.svg)
 <h2 style="font-size: 1.5rem; font-weight: bold;"> 👋 Hi! I'm Chris!</h2>
 
 I'm a Software Engineer looking for a Junior Full Stack Software Engineer position. I'm passionate about software that levels playing fields and changes the way we live our lives.
