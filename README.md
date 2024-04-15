@@ -1,6 +1,5 @@
 <!-- ☕Javascript | 📊SQL | 🎨HTML/CSS | 🐍Python | 📩Express.js | 🧪Flask | 🔰Node.js | ⚛Redux.js/React.js | ⚗SQLAlchemy | 💠Sequelize | 🐘Postgresql | 💨Tailwind CSS -->
 
-
 ![website-construction](/programming.svg)
 
 <h2 style="font-size: 1.5rem; font-weight: bold;"> 👋 Hi! I'm Chris!</h2>
