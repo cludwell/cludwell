@@ -13,7 +13,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
 🌱 I’m currently learning Java and C#.
 &nbsp;
 <!-- 🤔I'm currently refactoring my past projects to make them as polished as possible, while also exploring new technologies and languages to add to my aresnal.⚔ -->
-<h2 style="font-size: 1.5rem; font-weight: bold;">Technologies</h2>
+<h2 style="font-size: 1.5rem; font-weight: bold;">👨‍💻 Technologies</h2>
 &nbsp;
 <p>
   <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
@@ -21,7 +21,7 @@ I'm currently located in Portland, OR. But looking to relocate, given the right 
   </p>
 </p>
 &nbsp;
-<h2 style="font-size: 1.5rem; font-weight: bold;"> Projects</h2>
+<h2 style="font-size: 1.5rem; font-weight: bold;">👨‍🏫 Projects</h2>
 &nbsp;
 <div
   style="
